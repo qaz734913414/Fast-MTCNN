@@ -12,10 +12,12 @@ The demo base on [OpenCV](https://github.com/opencv/opencv) DNN module. my compu
 
 ![Screen Shot 2018-05-25 at 2.25.02 AM](images/test.png)
 
+### TODO
++ Optimize PNet Rnet Onet with modern net desigin (bottleneck , depthwise conv ,inverted residual block...) .
++ Benchmark on FDDB.
++ Computing sharing to accelerate speed when the detected faces increased.
 
 
 ## Anthor
 
 + Jack Yu
-
-  ​
